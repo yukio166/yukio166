@@ -2,7 +2,6 @@
 - i do stuf that is more likely to make me wast my day
 - I’m currently learning java
 - How to reach me by my email yukioyano@outlook.com.br
-- Pronouns: walmart bag
 - Fun fact: i like mazda miata  
 
 <!---
