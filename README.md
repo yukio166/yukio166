@@ -1,6 +1,6 @@
 - sup @yukio166
-- i do stuf that is more likely to make me wast my day
-- I’m currently learning java
+- i do some projects for learn my currents programming lenguages 
+- I’m currently learning java, html and css 
 - How to reach me by my email yukioyano@outlook.com.br
 
 <!---
