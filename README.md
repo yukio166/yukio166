@@ -1,4 +1,4 @@
-- sup @yukio166
+- sup, i am @yukio166
 - i do some projects for learn my currents programming lenguages 
 - I’m currently learning java, html and css 
 - How to reach me by my email yukioyano@outlook.com.br
